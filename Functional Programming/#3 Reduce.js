@@ -5,9 +5,13 @@ var orders = [
   { amount: 325 }
 ];
 
+// Reduce
 var totalAmount = orders.reduce(function(sum, order) {
   return sum + order.amount;
 }, 0);
+
+// Arrow example
+var totalAmount = orders.reduce((sum, order) => sum + order.amount, 0);
 
 console.log(totalAmount);
 
