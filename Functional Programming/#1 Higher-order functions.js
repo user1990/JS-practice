@@ -1,3 +1,6 @@
+// Functions are values
+// Composition
+// Filter transforms an array into a smaller array
 var cars = [
   { 'name': 'Ford', 'model': 'Fiesta' },
   { 'name': 'BMW', 'model': '320' },

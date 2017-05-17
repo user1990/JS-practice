@@ -1,3 +1,4 @@
+// Reduce - Multi-tool to list transformations
 var orders = [
   { amount: 250 },
   { amount: 400 },

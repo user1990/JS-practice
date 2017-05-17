@@ -1,3 +1,5 @@
+// Map goes through array and transforms all items into an array of the same length with each individual item
+
 // Task: Get all names of all the animals
 var animals = [
   { name: 'Fluffykins', species: 'rabbit' },
@@ -7,6 +9,7 @@ var animals = [
   { name: 'Ursula',     species: 'cat' },
   { name: 'Jimmy',      species: 'fish' }
 ];
+
 
 // 5 different methods to do this
 // for loop
