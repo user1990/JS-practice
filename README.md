@@ -11,14 +11,12 @@ Basic example code for better learning
 ## JavaScript ES6 / ES2015 Features
 
 - let and const Declarations
-- Destructing Assignment
 - Classes and Inheritance
 - Template literals
 - String Features
 - Math & Number Features
 - New Data Structures
-- Iterators
-- Generators
 - Promises & Asynchromous Data
 - Arrow Functions
-
+- Destructing Assignment
+- Arrays
