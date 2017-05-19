@@ -1,6 +1,7 @@
 'use strict';
 // Variables declared by let have as their scope the block in which they are defined
 // blocked-scope means everything between  {}
+
 // Example-1
 function testLet() {
   let a = 30;
