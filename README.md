@@ -11,12 +11,19 @@ Basic example code for better learning
 ## JavaScript ES6 / ES2015 Features
 
 - let and const Declarations
-- Classes and Inheritance
-- Template literals
-- String Features
-- Math & Number Features
-- New Data Structures
-- Promises & Asynchromous Data
 - Arrow Functions
+- Template Strings
+- Classes and Inheritance
+- String Features
 - Destructing Assignment
-- Arrays
+- Promises & Asynchromous Data
+- Iterables & Looping
+- Object Literal Upgrades
+- Arrays Improvements
+- ...Spread & ...Rest
+- Symbols
+- Generators
+- Proxies
+- Sets & WeakSets
+- Maps & WeakMaps
+
